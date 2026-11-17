@@ -5,7 +5,7 @@ Proyek Tahap 1 — Pengembangan SIG Web (Sub-CPMK 7: Implementasi SIG Web dengan
 - **Nama / NIM:** Fathul Khair / 241712073
 - **Mata kuliah:** Pengembangan SIG Web
 - **Dosen:** Dr. Syahriol Sitorus, M.IT
-- **Live demo:** https://USERNAME.github.io/NAMA-REPO/
+- **Live demo:** https://khair222.github.io/sigweb-fasilitas-medan/
 
 ## 1. Tema dan tujuan
 
